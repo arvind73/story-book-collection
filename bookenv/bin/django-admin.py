@@ -1,4 +1,4 @@
-#!/home/arvind/Arvind/Projects/story book collection/bookenv/bin/python3.8
+#!/home/arvind/Arvind/Projects/story_book_collection/bookenv/bin/python3.8
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 

@@ -1,4 +1,4 @@
-#!/home/arvind/Arvind/Projects/story book collection/bookenv/bin/python
+#!/home/arvind/Arvind/Projects/story_book_collection/bookenv/bin/python
 
 import sys
 import getopt
